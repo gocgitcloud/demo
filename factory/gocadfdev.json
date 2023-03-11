@@ -1,0 +1,9 @@
+{
+	"name": "gocadfdev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2471e7ae-a058-4314-b588-c6f39be9ec77",
+		"tenantId": "10d684e3-8420-4e93-9aa9-8f689083e0ea"
+	}
+}
